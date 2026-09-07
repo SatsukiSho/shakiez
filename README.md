@@ -79,6 +79,8 @@ $\color{#8a0015}\textsf{i dont really have a dni apart from like the general dni
 <img width="350" height="19" alt="tumblr_6f47b1347ef55d7d3d2fc67e6e6fa38d_a276acfd_400" src="https://github.com/user-attachments/assets/480e3488-3650-46d0-a072-1cb6ebb1da62" />
 <img width="350" height="19" alt="tumblr_8e23d7a15513b9d25768dc58b20b892d_08ae8edf_400" src="https://github.com/user-attachments/assets/24fd5d9b-2f0b-4899-af81-bdd9e9f471b7" />
 <img width="350" height="19" alt="tumblr_98cf14b6215879a8c89952675ad52536_91e7ed65_400" src="https://github.com/user-attachments/assets/54e543ca-2c99-40b5-97ba-c2472c9a9878" />
+<img width="350" height="19" alt="tumblr_8e062fcf14c608630f4513996f518bdc_10e87b77_400" src="https://github.com/user-attachments/assets/606bfbaf-fb7b-451c-bc30-2cb79a3185a0" />
+<img width="350" height="19" alt="tumblr_ca2dbc328515b5a8a0409f6b1f5e3b5e_958adc69_400" src="https://github.com/user-attachments/assets/9764cd3b-3469-4422-9a8c-4a12a8f0a695" />
 
 
 </p>
