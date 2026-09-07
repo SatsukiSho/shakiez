@@ -46,8 +46,7 @@ $\color{#ffd19c}\textsf{i dont really have a dni apart from like the general dni
 <img width="20" height="20" alt="16" src="https://github.com/user-attachments/assets/c75f512a-1aaa-4bb2-84fb-b1166a1f0409" />
 </p>
 <p align="center">
-<img width="606" height="50" alt="19" src="https://github.com/user-attachments/assets/758bcc1c-beb3-4cb0-9f18-51733c2605e6" />
-
+<img src="https://dividers.crd.co/assets/images/gallery05/aa1d7070.png?v=05d33f91" alt="Untitled"/>
 </p>
 <p align="center">
 <img width="99" height="56" alt="20" src="https://github.com/user-attachments/assets/2415664d-2ebf-4650-a940-82d5711943b0" />
