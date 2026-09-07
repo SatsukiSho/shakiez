@@ -29,7 +29,7 @@
 
 <p align="center">
 <img width="20" height="20" alt="cross3" src="https://github.com/user-attachments/assets/ccb0f245-f6e2-43c2-a169-3792aa2fc598" />
-  $\color{#eb4934}\textsf{"I'll haunt the west coast"}$ 
+  $\color{#eb4934}\textsf{"All my gente, they know that I've been that shit"}$ 
 <img width="20" height="20" alt="cross3" src="https://github.com/user-attachments/assets/ccb0f245-f6e2-43c2-a169-3792aa2fc598" />
 </p>
 <p align="center"
